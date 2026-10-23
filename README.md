@@ -1,7 +1,7 @@
 # CIS148 zyLAB Chapter 2
 
-- Name:
-- Completion Date:
+- Name: Shea McCartney
+- Completion Date: 10/22/2026
 
 This repository contains the starter files for labs 2.11 - 2.13 in the required zyBook.
 

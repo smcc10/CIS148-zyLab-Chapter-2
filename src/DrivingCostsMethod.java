@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class DrivingCostsMethod {
    
    /* Define your method here */
